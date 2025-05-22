@@ -3,11 +3,7 @@
 
 This is a Snake and Ladder Game website developed using Node.js, React.js, Express.js, and MongoDB. It provides a fully responsive and secure platform for users to play the game. Users can create an account, save their game progress, create new games, load saved games, and logout from the game. The website supports multiplayer functionality, allowing a maximum of 4 players to play together.
 
-## Demo
 
-
-
-https://github.com/Prashant0664/snake-and-ladder/assets/98750053/2ffed578-2341-42ee-b1ef-faf871a4d2a3
 
 
 
@@ -72,13 +68,4 @@ https://github.com/Prashant0664/snake-and-ladder/assets/98750053/2ffed578-2341-4
 
 Contributions to the project are welcome! If you find any bugs or want to add new features, please open an issue or submit a pull request.
 
-## Contact
-For any inquiries or feedback, please contact:
 
-Prashant <br/>
-Email: `prashant201103@gmail.com`
-
-## Learn More
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
